@@ -1,2 +1,2 @@
 # FunBackend
-a fun test app for backend
+A fun test app for backend.
